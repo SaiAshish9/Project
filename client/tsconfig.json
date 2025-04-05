@@ -1,0 +1,9 @@
+// client/tsconfig.json
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+      "baseUrl": "./src"
+    },
+    "include": ["src"]
+  }
+  
