@@ -1,2 +1,2 @@
-const handler = require('../dist/index');
-module.exports = handler;
+import handler from '../dist/index.js';
+export default handler;
